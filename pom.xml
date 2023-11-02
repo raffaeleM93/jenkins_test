@@ -22,6 +22,7 @@
                 <version>2.22.2</version>
             </plugin>
         </plugins>
+        <finalName>jenkins_ch13-continuous</finalName>
     </build>
 
     <dependencies>
